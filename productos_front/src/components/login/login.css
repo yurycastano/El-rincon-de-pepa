@@ -1,0 +1,13 @@
+#Login-container{
+    margin-top:10%;
+}
+
+#Login-container h2,
+#Login-container button,
+#Login-container form{
+    width:100%;
+}
+
+#Login-container button{
+    margin-top: 15px;
+}
